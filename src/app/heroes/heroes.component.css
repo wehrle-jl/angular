@@ -1,0 +1,10 @@
+
+  .heroes li:hover {
+    color: blue;
+  }
+  .heroes li.selected {
+    color: red;
+  }
+  .heroes li.selected:hover {
+    color: yellow;
+  }
